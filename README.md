@@ -1,11 +1,10 @@
 # Proyecto Módulo 4 - Tabla de posiciones
 
-## Integrantes
-- Luis Daniel Lopez Rivera
-- [Nombre del segundo integrante]
+## Alumno: Luis Daniel Lopez Rivera
+## Matricula 26491032
 
 ## Descripción del proyecto
-Programa en Python que calcula una tabla de posiciones. El usuario captura cuántos equipos hay y cuántos partidos jugó cada uno, y luego el resultado de cada partido (G = ganado, P = perdido, E = empate).
+Programa en Python que calcula una tabla de posiciones, El usuario captura cuántos equipos hay y cuántos partidos jugó cada uno, y luego el resultado de cada partido (G = ganado, P = perdido, E = empate).
 
 - **Clase `Equipo`:** agrupa nombre, ganados, perdidos, empates y puntos.
 - **Listas:** guardan los objetos `Equipo` y los resultados de cada partido.
@@ -14,12 +13,12 @@ Programa en Python que calcula una tabla de posiciones. El usuario captura cuán
 
 ## Cómo ejecutarlo
 1. Tener Python 3.12 instalado.
-2. Ejecutar: `python main.py`
-3. Seguir las instrucciones en pantalla.
+2. Ejecutar: `main.py`
+3. hacer los pasos que te pide la terminal, si pones algo que no este en los parametros del codigo te dira que ese valor es incorrecto y dara las opciones posibles que puedes colocar
 
 ## Estructura del repositorio
 - `main.py`: código del programa.
 - `capturas/`: evidencia de ejecución.
 
 ## Declaración de uso de IA
-Se utilizó una herramienta de inteligencia artificial (Claude, de Anthropic) como apoyo para generar el código base y este README. Los integrantes revisamos el código, lo ejecutamos y comprendemos su funcionamiento.
+Se utilizó una herramienta de inteligencia artificial (Claude, de Anthropic) como apoyo para generar el código base los cuales serian las clases y en la matrizes 
